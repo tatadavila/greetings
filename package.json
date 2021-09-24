@@ -1,0 +1,21 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint **.js"
+  },
+  "keywords": [],
+  "author": "Tatiana Davila <tatdev91@gmail.com> (http://tatianadavila.info/)",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "command-line-args": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
